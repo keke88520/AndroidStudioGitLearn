@@ -24,5 +24,8 @@
     <CalendarView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"></CalendarView>
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></DatePicker>
 
 </android.support.constraint.ConstraintLayout>
